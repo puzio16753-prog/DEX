@@ -1,0 +1,7 @@
+# Copy to terraform.tfvars (gitignored) and fill secrets before apply.
+# Example:
+#
+# aws_region  = "us-east-1"
+# environment = "staging"
+# db_password = "replace-me"
+# rpc_url     = ""  # optional
